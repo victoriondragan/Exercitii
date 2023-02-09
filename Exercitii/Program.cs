@@ -10,7 +10,7 @@ namespace Exercitii
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("hello hahahahaha");
+            Console.WriteLine("hello hahahahaha .... change in rep ... changenvcjhgvhjvjvbj");
         }
     }
 }
