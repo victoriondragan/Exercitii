@@ -11,6 +11,7 @@ namespace Exercitii
         static void Main(string[] args)
         {
             Console.WriteLine("hello hahahahaha .... change in rep ... changenvcjhgvhjvjvbj");
+            Console.WriteLine("again 2");
         }
     }
 }
